@@ -6,8 +6,6 @@ Scraping and analyzing websites with Mras news and weather facts.
 
 ## Data Source
 
-sqlite database with two tables:
-
 1. [Mars News Website](https://static.bc-edx.com/data/web/mars_news/index.html)
 
 2. [Mars Weather Facts Website](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
