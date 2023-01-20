@@ -2,7 +2,7 @@
 
 ## Background
 
-Scraping and analyzing websites with Mras news and weather facts.
+Scraping and analyzing websites with Mars news and weather facts.
 
 ## Data Source
 
