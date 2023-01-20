@@ -33,7 +33,7 @@ c. Data and visualizations to answer the following questions:
  - Which month, on average, has the lowest atmospheric pressure? The highest? Highest 9, lowest 6
  - How many terrestrial days exist in a Martian year? approximately 700.
 
-d. CSV with the data.
+d. [CSV with the data](https://github.com/Ahmadhha/scraping_and_analysis-challenge/tree/main/Output) 
 
 ### Shortcuts
 
